@@ -22,7 +22,7 @@ man page: `man borders`. A rendered version of the man page is available in the
 ### Bootstrap with yabai
 For example, if you are using `yabai`, you could add:
 ```bash
-borders active_color=0xffe1e3e4 inactive_color=0xff494d64 width=5.0 &
+borders active_color=0x00ff00e4 inactive_color=0xff494d64 width=1a5.0 &
 ```
 to the very end of your `yabairc`. This will start the borders with the
 specified options along with yabai.
